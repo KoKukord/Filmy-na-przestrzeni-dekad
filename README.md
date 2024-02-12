@@ -11,10 +11,15 @@ PYTANIA
 
 
 a) Jakie filmy zaliczamy do najlepiej ocenianych oraz najpopularniejszych w danej dekadzie?
+
 b) Jak wygląda ranking najlepiej ocenianych gatunków filmowych danej dekady?
+
 c) Który aktor występował najczęściej w najlepszych filmach danej dekady?
+
 d) Jak wyglądają proporcje płci wśród głównych bohaterów w danej dekadzie?
+
 e) Czy długość filmu jest skorelowana z otrzymaną oceną filmu?
+
 f) Jak wygląda ranking najbardziej i najmniej dochodowych filmów?
 
 
